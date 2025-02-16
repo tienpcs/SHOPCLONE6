@@ -1,0 +1,158 @@
+/*
+    
+Design by Tmc - hoihan.org 
+
+
+*/
+
+body {
+	font-family: Time New Romans;
+	font: Time New Romans;
+    color: darkviolet;
+	font-size: 18px;
+    margin: 0;
+	margin:auto;
+	padding:0;
+	max-width:650px;
+	border: 1px solid #e1e1e1;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	background-color: #fff;
+}
+
+body b { 
+	font-size:19px;
+	color: red;
+}
+.hdr {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #595959;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+.header, .w2, .title ,.bmenu, .phdr {
+	font-family: Bauhaus;
+	font: Bauhaus;
+    background: #65c712;
+    border-bottom: 2px solid #cbcbcb;
+    color: #fff;
+    margin: 0 0 1px 0;
+    padding: 4px 1px 4px 6px;
+}
+
+.header a, .w2 a, .title a,.bmenu a, .phdr a{
+    color: #fff;
+}
+.header a:hover,.w2 a:hover, .title a:hover,.bmenu a:hover, .phdr a:hover{
+	font-weight: bold;
+    text-decoration: none;
+	color: #fff;
+}
+
+.list1,.list2 {
+    background: #FFF;
+	margin: 1px 0;
+    padding: 3px 1px 4px 4px;
+	border: 1px solid #e1e1e1;
+}
+
+
+
+.gmenu , .ch {
+    background: #E1E9EA;
+    margin: 1px 0;
+	padding: 3px 4px 3px 4px;
+}
+
+
+
+.rmenu {
+    background: #F5E9EB;
+    border: 1px solid #E2C0C7;
+    margin: 1px 0;
+    padding: 4px;
+}
+.tmenu {
+    background: #E2C0C7;
+    border: 1px solid #E2C0C7;
+    margin: 1px 0;
+    padding: 4px;
+}
+
+.rmenu input, .rmenu textarea, .rmenu select  {
+    border: 1px solid #E2C0C7;
+}
+.border, .rb, .edit {
+font-size: 15px;
+border: 1px solid #ab0;
+margin: 1px;
+padding: 0px;
+}
+
+
+
+
+a{
+    text-decoration: none;
+	color: #0a0;
+}
+
+a:hover{
+	font-weight: bold;
+    text-decoration: none;
+	color: #00a;
+}
+input, textarea, select {
+	font-size: 16px;
+    background: #faf;
+	margin: 1px 0;margin: 1px 0;
+    padding: 3px 1px 4px 4px;
+	border: 1px solid #65c712;
+	color:#00a;
+}
+input:focus , textarea:focus, select:focus {
+    background: #00a;
+	margin: 1px 0;margin: 1px 0;
+    padding: 3px 1px 4px 4px;
+	border: 1px solid #65c712;
+	color:#fff;
+	font-size: 16px;
+}
+
+
+
+input[type = "submit"],input[type = "button"],input[type = "reset"] {
+	background: #65c712; 
+    padding: 4px 10px;
+	font-size:18px;
+	color:#fff;
+}
+
+input[type = "submit"]:hover,input[type = "button"]:hover,input[type = "reset"]:hover {
+	background: #a0a; 
+    padding: 4px 10px;
+	font-size:18px;
+	color:#fff;
+}
+
+input[type = "file"] {
+    margin: 2px 0;
+}
+
+hr {
+    border: 0;
+    border-top: 1px dotted #E1E1E1;
+    margin: 5px 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0 0 2px 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
